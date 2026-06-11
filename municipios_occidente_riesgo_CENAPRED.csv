@@ -1,0 +1,268 @@
+estado,municipio,zona_sismica_CFE,grado_peligro_inundacion_CENAPRED,grado_vulnerabilidad_social_CENAPRED,tiene_ARM
+Colima,Colima,D,Medio,Bajo,Sí
+Colima,Comala,D,Bajo,Bajo,No
+Colima,Coquimatlán,D,Alto,Medio,Sí
+Colima,Cuauhtémoc,D,Bajo,Bajo,Sí
+Colima,Ixtlahuacán,D,Alto,Alto,No
+Colima,Manzanillo,D,Muy alto,Bajo,Sí
+Colima,Minatitlán,D,Medio,Alto,No
+Colima,Tecomán,D,Alto,Medio,Sí
+Colima,Villa de Álvarez,D,Bajo,Bajo,Sí
+Colima,Armería,D,Muy alto,Medio,Sí
+Nayarit,Acaponeta,C,Alto,Alto,Sí
+Nayarit,Ahuacatlán,B,Bajo,Medio,No
+Nayarit,Amatlán de Cañas,C,Medio,Medio,No
+Nayarit,Compostela,D,Alto,Medio,Sí
+Nayarit,El Nayar,B,Bajo,Muy alto,No
+Nayarit,Huajicori,B,Medio,Muy alto,No
+Nayarit,Ixtlán del Río,C,Medio,Medio,No
+Nayarit,Jala,C,Bajo,Medio,No
+Nayarit,La Yesca,B,Bajo,Muy alto,No
+Nayarit,Rosamorada,C,Alto,Alto,Sí
+Nayarit,Ruíz,C,Medio,Alto,No
+Nayarit,San Blas,D,Muy alto,Medio,Sí
+Nayarit,San Pedro Lagunillas,C,Medio,Medio,No
+Nayarit,Santa María del Oro,B,Bajo,Medio,No
+Nayarit,Santiago Ixcuintla,C,Muy alto,Medio,Sí
+Nayarit,Tecuala,C,Alto,Alto,Sí
+Nayarit,Tepic,C,Medio,Bajo,Sí
+Nayarit,Tuxpan,C,Medio,Medio,No
+Nayarit,Xalisco,C,Bajo,Bajo,Sí
+Nayarit,Bahía de Banderas,D,Alto,Bajo,Sí
+Jalisco,Acatic,C,Bajo,Medio,No
+Jalisco,Acatlán de Juárez,C,Medio,Medio,No
+Jalisco,Ahualulco de Mercado,C,Bajo,Bajo,No
+Jalisco,Amacueca,C,Medio,Medio,No
+Jalisco,Amatitán,C,Bajo,Bajo,No
+Jalisco,Ameca,C,Medio,Bajo,Sí
+Jalisco,San Juanito de Escobedo,B,Bajo,Medio,No
+Jalisco,Arandas,B,Bajo,Bajo,No
+Jalisco,El Arenal,C,Bajo,Medio,No
+Jalisco,Atemajac de Brizuela,C,Bajo,Medio,No
+Jalisco,Atengo,C,Medio,Medio,No
+Jalisco,Atenguillo,C,Bajo,Alto,No
+Jalisco,Atotonilco el Alto,B,Bajo,Bajo,No
+Jalisco,Atoyac,C,Medio,Medio,No
+Jalisco,Autlán de Navarro,D,Alto,Medio,Sí
+Jalisco,Ayotlán,B,Medio,Medio,No
+Jalisco,Ayutla,D,Alto,Alto,No
+Jalisco,La Barca,B,Alto,Bajo,Sí
+Jalisco,Bolaños,B,Bajo,Alto,No
+Jalisco,Cabo Corrientes,D,Muy alto,Alto,No
+Jalisco,Casimiro Castillo,D,Alto,Alto,No
+Jalisco,Cihuatlán,D,Muy alto,Medio,Sí
+Jalisco,Zapotlán el Grande,C,Medio,Bajo,Sí
+Jalisco,Cocula,C,Medio,Medio,No
+Jalisco,Colotlán,B,Bajo,Medio,No
+Jalisco,Concepción de Buenos Aires,C,Bajo,Medio,No
+Jalisco,Cuautitlán de García Barragán,D,Alto,Alto,No
+Jalisco,Cuautla,B,Bajo,Medio,No
+Jalisco,Cuquío,C,Bajo,Medio,No
+Jalisco,Chapala,C,Medio,Bajo,Sí
+Jalisco,Chimaltitán,B,Bajo,Alto,No
+Jalisco,Chiquilistlán,C,Bajo,Medio,No
+Jalisco,Degollado,B,Bajo,Bajo,No
+Jalisco,Ejutla,C,Bajo,Medio,No
+Jalisco,Encarnación de Díaz,B,Bajo,Bajo,No
+Jalisco,Etzatlán,C,Bajo,Bajo,No
+Jalisco,El Grullo,D,Medio,Medio,No
+Jalisco,Guachinango,C,Bajo,Alto,No
+Jalisco,Guadalajara,C,Bajo,Muy bajo,Sí
+Jalisco,Hostotipaquillo,B,Bajo,Medio,No
+Jalisco,Huejúcar,B,Bajo,Medio,No
+Jalisco,Huejuquilla el Alto,B,Bajo,Alto,No
+Jalisco,La Huerta,D,Muy alto,Medio,No
+Jalisco,Ixtlahuacán de los Membrillos,C,Medio,Bajo,No
+Jalisco,Ixtlahuacán del Río,C,Bajo,Medio,No
+Jalisco,Jalostotitlán,B,Bajo,Bajo,No
+Jalisco,Jamay,B,Muy alto,Bajo,No
+Jalisco,Jesús María,B,Bajo,Bajo,No
+Jalisco,Jilotlán de los Dolores,C,Medio,Alto,No
+Jalisco,Jocotepec,C,Medio,Bajo,No
+Jalisco,Juanacatlán,C,Medio,Bajo,No
+Jalisco,Juchitlán,C,Bajo,Medio,No
+Jalisco,Lagos de Moreno,B,Bajo,Bajo,No
+Jalisco,El Limón,D,Medio,Medio,No
+Jalisco,Magdalena,C,Bajo,Bajo,No
+Jalisco,Santa María de los Ángeles,B,Bajo,Medio,No
+Jalisco,Mascota,D,Medio,Medio,No
+Jalisco,Mazamitla,C,Bajo,Medio,No
+Jalisco,Mexticacán,B,Bajo,Medio,No
+Jalisco,Mezquitic,B,Bajo,Muy alto,No
+Jalisco,Mixtlán,D,Bajo,Alto,No
+Jalisco,Ocotlán,B,Alto,Bajo,Sí
+Jalisco,Ojuelos de Jalisco,B,Bajo,Medio,No
+Jalisco,Pihuamo,C,Medio,Alto,No
+Jalisco,Poncitlán,C,Alto,Bajo,No
+Jalisco,Puerto Vallarta,D,Alto,Bajo,Sí
+Jalisco,Villa Purificación,D,Medio,Alto,No
+Jalisco,Quitupan,C,Bajo,Alto,No
+Jalisco,El Salto,C,Bajo,Bajo,No
+Jalisco,San Cristóbal de la Barranca,C,Bajo,Medio,No
+Jalisco,San Diego de Alejandría,B,Bajo,Bajo,No
+Jalisco,San Juan de los Lagos,B,Bajo,Bajo,Sí
+Jalisco,San Julián,B,Bajo,Bajo,No
+Jalisco,San Marcos,C,Bajo,Medio,No
+Jalisco,San Martín de Bolaños,B,Bajo,Alto,No
+Jalisco,San Martín Hidalgo,C,Medio,Bajo,No
+Jalisco,San Miguel el Alto,B,Bajo,Bajo,No
+Jalisco,Gómez Farías,C,Bajo,Medio,No
+Jalisco,San Sebastián del Oeste,D,Medio,Alto,No
+Jalisco,Santa María del Oro,C,Bajo,Medio,No
+Jalisco,La Manzanilla de la Paz,C,Bajo,Medio,No
+Jalisco,Sayula,C,Medio,Bajo,No
+Jalisco,Tala,C,Medio,Bajo,No
+Jalisco,Talpa de Allende,D,Medio,Alto,No
+Jalisco,Tamazula de Gordiano,C,Medio,Medio,No
+Jalisco,Tapalpa,C,Bajo,Bajo,No
+Jalisco,Tecalitlán,C,Medio,Alto,No
+Jalisco,Tecolotlán,D,Medio,Medio,No
+Jalisco,Techaluta de Montenegro,C,Bajo,Medio,No
+Jalisco,Tenamaxtlán,C,Bajo,Medio,No
+Jalisco,Teocaltiche,B,Bajo,Bajo,No
+Jalisco,Teocuitatlán de Corona,C,Bajo,Bajo,No
+Jalisco,Tepatitlán de Morelos,B,Bajo,Bajo,Sí
+Jalisco,Tequila,C,Bajo,Bajo,No
+Jalisco,Teuchitlán,C,Bajo,Bajo,No
+Jalisco,Tizapán el Alto,C,Medio,Bajo,No
+Jalisco,Tlajomulco de Zúñiga,C,Medio,Bajo,Sí
+Jalisco,Tlaquepaque,C,Medio,Bajo,Sí
+Jalisco,Tolimán,C,Medio,Alto,No
+Jalisco,Tomatlán,D,Alto,Alto,No
+Jalisco,Tonalá,C,Bajo,Bajo,Sí
+Jalisco,Tonaya,D,Bajo,Medio,No
+Jalisco,Tonila,C,Bajo,Medio,No
+Jalisco,Totatiche,B,Bajo,Alto,No
+Jalisco,Tototlán,B,Medio,Bajo,No
+Jalisco,Tuxcacuesco,D,Medio,Alto,No
+Jalisco,Tuxcueca,C,Alto,Bajo,No
+Jalisco,Tuxpan,C,Bajo,Medio,No
+Jalisco,Unión de San Antonio,B,Bajo,Bajo,No
+Jalisco,Unión de Tula,D,Medio,Medio,No
+Jalisco,Valle de Guadalupe,B,Bajo,Bajo,No
+Jalisco,Valle de Juárez,C,Bajo,Medio,No
+Jalisco,San Gabriel,C,Bajo,Bajo,No
+Jalisco,Villa Corona,C,Medio,Bajo,No
+Jalisco,Villa Guerrero,C,Bajo,Medio,No
+Jalisco,Villa Hidalgo,B,Bajo,Bajo,No
+Jalisco,Cañadas de Obregón,B,Bajo,Medio,No
+Jalisco,Yahualica de González Gallo,B,Bajo,Medio,No
+Jalisco,Zacoalco de Torres,C,Bajo,Bajo,No
+Jalisco,Zapopan,C,Bajo,Muy bajo,Sí
+Jalisco,Zapotiltic,C,Medio,Bajo,No
+Jalisco,Zapotitlán de Vadillo,C,Bajo,Medio,No
+Jalisco,Zapotlán del Rey,B,Alto,Bajo,No
+Jalisco,Zapotlanejo,C,Bajo,Bajo,No
+Jalisco,San Ignacio Cerro Gordo,B,Bajo,Bajo,No
+Michoacán,Acuitzio,C,Bajo,Medio,No
+Michoacán,Aguililla,D,Medio,Alto,No
+Michoacán,Álvaro Obregón,C,Alto,Alto,No
+Michoacán,Angamacutiro,C,Medio,Medio,No
+Michoacán,Angangueo,C,Bajo,Alto,No
+Michoacán,Apatzingán,D,Alto,Medio,Sí
+Michoacán,Aporo,C,Bajo,Alto,No
+Michoacán,Aquila,D,Muy alto,Muy alto,No
+Michoacán,Ario,C,Bajo,Medio,No
+Michoacán,Arteaga,D,Alto,Alto,No
+Michoacán,Briseñas,C,Alto,Medio,No
+Michoacán,Buenavista,D,Medio,Medio,No
+Michoacán,Carácuaro,D,Medio,Alto,No
+Michoacán,Coahuayana,D,Muy alto,Alto,No
+Michoacán,Coalcomán de Vázquez Pallares,D,Medio,Alto,No
+Michoacán,Coeneo,C,Bajo,Medio,No
+Michoacán,Contepec,C,Bajo,Medio,No
+Michoacán,Copándaro,C,Medio,Medio,No
+Michoacán,Cotija,C,Bajo,Medio,No
+Michoacán,Cuitzeo,C,Medio,Bajo,No
+Michoacán,Charapan,C,Bajo,Alto,No
+Michoacán,Charo,C,Bajo,Medio,No
+Michoacán,Chavinda,C,Medio,Medio,No
+Michoacán,Cherán,C,Bajo,Alto,No
+Michoacán,Chilchota,C,Bajo,Alto,No
+Michoacán,Chinicuila,D,Medio,Muy alto,No
+Michoacán,Chucándiro,C,Bajo,Medio,No
+Michoacán,Churintzio,C,Bajo,Medio,No
+Michoacán,Churumuco,D,Alto,Muy alto,No
+Michoacán,Ecuandureo,C,Medio,Medio,No
+Michoacán,Epitacio Huerta,C,Bajo,Medio,No
+Michoacán,Erongarícuaro,C,Bajo,Medio,No
+Michoacán,Gabriel Zamora,D,Alto,Alto,No
+Michoacán,Hidalgo,C,Bajo,Bajo,No
+Michoacán,La Huacana,D,Alto,Alto,No
+Michoacán,Huandacareo,C,Medio,Bajo,No
+Michoacán,Huaniqueo,C,Bajo,Medio,No
+Michoacán,Huetamo,D,Alto,Alto,Sí
+Michoacán,Huiramba,C,Bajo,Bajo,No
+Michoacán,Indaparapeo,C,Bajo,Bajo,No
+Michoacán,Irimbo,C,Bajo,Medio,No
+Michoacán,Ixtlán,D,Muy alto,Alto,No
+Michoacán,Jacona,C,Medio,Bajo,Sí
+Michoacán,Jiquilpan,C,Bajo,Bajo,Sí
+Michoacán,Juárez,C,Medio,Medio,No
+Michoacán,Jungapeo,C,Medio,Medio,No
+Michoacán,Lagunillas,C,Bajo,Bajo,No
+Michoacán,Lázaro Cárdenas,D,Muy alto,Medio,Sí
+Michoacán,Los Reyes,C,Bajo,Medio,Sí
+Michoacán,Madero,C,Bajo,Medio,No
+Michoacán,Maravatío,C,Bajo,Bajo,Sí
+Michoacán,Marcos Castellanos,C,Alto,Bajo,No
+Michoacán,Morelia,C,Bajo,Bajo,Sí
+Michoacán,Morelos,C,Bajo,Medio,No
+Michoacán,Múgica,D,Alto,Alto,No
+Michoacán,Nahuatzen,C,Bajo,Alto,No
+Michoacán,Nocupétaro,D,Medio,Alto,No
+Michoacán,Nuevo Parangaricutiro,D,Bajo,Alto,No
+Michoacán,Nuevo Urecho,D,Medio,Alto,No
+Michoacán,Numarán,C,Medio,Medio,No
+Michoacán,Ocampo,C,Bajo,Medio,No
+Michoacán,Pajacuarán,C,Alto,Medio,No
+Michoacán,Panindícuaro,C,Bajo,Medio,No
+Michoacán,Parácuaro,D,Medio,Alto,No
+Michoacán,Paracho,C,Bajo,Alto,No
+Michoacán,Pátzcuaro,C,Bajo,Bajo,Sí
+Michoacán,Penjamillo,C,Bajo,Medio,No
+Michoacán,Peribán,C,Bajo,Medio,No
+Michoacán,La Piedad,C,Alto,Bajo,Sí
+Michoacán,Purépero,C,Bajo,Medio,No
+Michoacán,Puruarán,D,Medio,Alto,No
+Michoacán,Queréndaro,C,Bajo,Bajo,No
+Michoacán,Quiroga,C,Bajo,Bajo,No
+Michoacán,Cojumatlán de Régules,C,Alto,Bajo,No
+Michoacán,Sahuayo,C,Medio,Bajo,Sí
+Michoacán,San Lucas,D,Medio,Alto,No
+Michoacán,Santa Ana Maya,C,Medio,Bajo,No
+Michoacán,Salvador Escalante,C,Bajo,Medio,No
+Michoacán,Senguio,C,Bajo,Medio,No
+Michoacán,Susupuato,C,Bajo,Alto,No
+Michoacán,Tacámbaro,C,Bajo,Medio,No
+Michoacán,Tancítaro,D,Medio,Alto,No
+Michoacán,Tangamandapio,C,Bajo,Medio,No
+Michoacán,Tangancícuaro,C,Bajo,Medio,No
+Michoacán,Tanhuato,C,Medio,Medio,No
+Michoacán,Taretan,C,Bajo,Medio,No
+Michoacán,Tarímbaro,C,Bajo,Bajo,No
+Michoacán,Tepalcatepec,D,Medio,Alto,No
+Michoacán,Tingambato,C,Bajo,Medio,No
+Michoacán,Tingüindín,C,Bajo,Medio,No
+Michoacán,Tiquicheo de Nicolás Romero,D,Alto,Alto,No
+Michoacán,Tlalpujahua,C,Bajo,Medio,Sí
+Michoacán,Tlazazalca,C,Bajo,Medio,No
+Michoacán,Tocumbo,C,Bajo,Medio,No
+Michoacán,Tumbiscatío,D,Medio,Muy alto,No
+Michoacán,Turicato,D,Medio,Alto,No
+Michoacán,Tuxpan,C,Bajo,Medio,No
+Michoacán,Tuzantla,D,Alto,Alto,No
+Michoacán,Tzintzuntzan,C,Bajo,Medio,No
+Michoacán,Tzitzio,D,Medio,Alto,No
+Michoacán,Uruapan,D,Medio,Bajo,Sí
+Michoacán,Venustiano Carranza,C,Medio,Medio,No
+Michoacán,Villamar,C,Medio,Bajo,No
+Michoacán,Vista Hermosa,C,Medio,Medio,No
+Michoacán,Yurécuaro,C,Alto,Bajo,No
+Michoacán,Zacapu,C,Bajo,Bajo,Sí
+Michoacán,Zamora,C,Medio,Bajo,Sí
+Michoacán,Zináparo,C,Bajo,Medio,No
+Michoacán,Zinapécuaro,C,Bajo,Bajo,No
+Michoacán,Ziracuaretiro,C,Bajo,Medio,No
+Michoacán,Zitácuaro,C,Bajo,Bajo,Sí
+Michoacán,José Sixto Verduzco,C,Medio,Bajo,No
